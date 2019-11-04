@@ -1,4 +1,4 @@
-# Sass-example-start
+# Sass-example-end
 
 ## Included
 * SASS (and SCSS)

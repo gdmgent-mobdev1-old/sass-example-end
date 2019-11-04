@@ -1,8 +1,8 @@
 {
-  "name": "sass-example-start",
+  "name": "sass-example-end",
   "version": "1.0.0",
   "private": true,
-  "description": "The Sass Example",
+  "description": "The Sass Example (End)",
   "scripts": {
     "dev": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
